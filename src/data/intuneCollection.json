@@ -73017,7 +73017,7 @@
   },
   {
     "id": "device_vendor_msft_policy_config_fslogixv1~policy~fslogix~odfc_odfcincludesharepoint",
-    "displayName": "Include Sharepoint",
+    "displayName": "Include SharePoint",
     "options": [
       {
         "id": "device_vendor_msft_policy_config_fslogixv1~policy~fslogix~odfc_odfcincludesharepoint_0",
@@ -209011,7 +209011,7 @@
   },
   {
     "id": "user_vendor_msft_policy_config_outlk16v2~policy~l_microsoftofficeoutlook~l_toolsaccounts~l_sharepointintegration_l_disablesharepointintegrationinoutlook",
-    "displayName": "Do not allow Sharepoint-Outlook integration (User)",
+    "displayName": "Do not allow SharePoint-Outlook integration (User)",
     "options": [
       {
         "id": "user_vendor_msft_policy_config_outlk16v2~policy~l_microsoftofficeoutlook~l_toolsaccounts~l_sharepointintegration_l_disablesharepointintegrationinoutlook_0",
